@@ -1,0 +1,2 @@
+ 1 - primero colcas (npm install -g serve)
+ 2 - luego colocas para iniciar (serve -s build)
